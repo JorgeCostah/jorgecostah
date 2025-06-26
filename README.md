@@ -15,16 +15,14 @@ Atualmente estudo e aplico conhecimentos em:
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-    <a href="(https://custom-icon-badges.demolab.com/github/stars/JorgeCostah?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas
-)">
+    <a href="https://github.com/JorgeCostah?tab=repositories&sort=stargazers">
         <img 
             alt="Total de Estrelas" 
             title="Total de Estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JorgeCostahC?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/JorgeCostah?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
-    <a href="(https://custom-icon-badges.demolab.com/github/followers/JorgeCostah?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white
-)">
+    <a href="https://github.com/JorgeCostah?tab=followers">
         <img 
             alt="Seguidores no GitHub" 
             title="Me siga no GitHub" 
