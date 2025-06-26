@@ -2,7 +2,7 @@
 
 **`Entusiasta de TI | Aprendendo Python, Cibersegurança e Desenvolvimento Web`**
 
-Olá! Sou o Jorge Costa, curioso por natureza e sempre buscando entender o *"por quê"* por trás da tecnologia. Tenho facilidade em explorar problemas, gosto de aprender de forma prática e me sinto motivado quando consigo ver o resultado funcionando na tela.
+Olá! Sou o Jorge CostaH, curioso por natureza e sempre buscando entender o *"por quê"* por trás da tecnologia. Tenho facilidade em explorar problemas, gosto de aprender de forma prática e me sinto motivado quando consigo ver o resultado funcionando na tela.
 
 Atualmente estudo e aplico conhecimentos em:
 
