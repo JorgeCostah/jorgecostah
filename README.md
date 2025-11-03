@@ -1,16 +1,15 @@
-# 👨🏻‍💻 JorgeCostah
+# JorgeCostah
 
-**`Entusiasta de TI | Aprendendo Python, Cibersegurança e Desenvolvimento Web`**
+**`Entudante de ADS | Profissional de TI | Aprendendo Python, Cibersegurança e Desenvolvimento Web`**
 
 Olá! Sou o Jorge, curioso por natureza e sempre buscando entender o *"por quê"* por trás da tecnologia. Tenho facilidade em explorar problemas, gosto de aprender de forma prática e me sinto motivado quando consigo ver o resultado funcionando na tela.
 
 Atualmente estudo e aplico conhecimentos em:
 
-🚀 **Redes de Computadores**  
-🚀 **Cibersegurança e Pentest com foco em Linux (Parrot OS)**  
-🚀 **Desenvolvimento de sistemas com Python (Tkinter, Flask, Flet)**  
-🚀 **Estrutura de Dados e Lógica de Programação**  
-🚀 **Sistemas Operacionais, principalmente ambiente Linux**
+**Redes de Computadores**  
+**Desenvolvimento de sistemas com Python (Tkinter, Flask, Flet)**  
+**Estrutura de Dados e Lógica de Programação**  
+**Sistemas Operacionais, principalmente ambiente Linux**
 
 ## 🌐 Conecte-se comigo
 
